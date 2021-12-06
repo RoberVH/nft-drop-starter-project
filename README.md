@@ -1,8 +1,11 @@
 # buildspace Solana NFT Drop Project
 ### Welcome 👋
-To get started with this course, clone this repo and follow these commands:
+Project developed under _buildspace project at https://buildspace.so/
 
-### This is my forked to build my customized project Welcome
+### This is my forked repo to build my customized Solana NFT project 
+It consist of an CRA that talks to Solana NFTs through a deployed Metaplex Contract
+
+December/2021
 
 
 ### Project link at buildspace:
